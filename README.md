@@ -81,3 +81,7 @@ void loop() {
 }
   ```
 ## Before operation :
+![C1](https://github.com/amjadalialharbi/Electronic-circuit/assets/174282482/459e72e5-82e7-4b72-9f16-0777e194a396)
+
+## After operation :
+![C2](https://github.com/amjadalialharbi/Electronic-circuit/assets/174282482/3fcac1aa-7c7c-4755-b757-1e87292c1d90)
